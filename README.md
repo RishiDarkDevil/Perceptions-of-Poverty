@@ -1,2 +1,2 @@
-# Perceptions-of-Poverty
-This work pertains to detailed analysis, through survey in and around Kolkata region, of the existing Multi-Dimensional Poverty Index used by India to calculate the level of poverty at individual, state and nation level.
+# Perceptions of Poverty
+This is a small-scale survey conducted in Kolkata and its suburbs to find out the relative importance of various poverty indicators and the validity of the weights used in the Multi-Dimensional Poverty Index in India. Our results include a ranking of various poverty indicators, estimation of indicator weights using the Discrete Choice Modelling Framework, detailed exploratory data analysis and limitations with the existing framework. We believe this sort of work is important to capture accurately the proportion of people poor, the poverty level and the causes leading to such poverty.
